@@ -1,6 +1,6 @@
 {
-  "name": "com.kesomannen.unity-repo-project-patcher",
-  "version": "0.2.0",
+  "name": "com.github.therealkoba.unity-repo-project-patcher",
+  "version": "0.3.1",
   "displayName": "REPO Project Patcher",
   "description": "A game wrapper that generates a Unity project from R.E.P.O's build that can be playable in-editor",
   "unity": "2022.3",
@@ -10,9 +10,14 @@
   "devDependencies": {},
   "samples": [],
   "author": {
+      "name": "TheRealKoba",
+      "email": "",
+      "url": "https://therealkoba.github.com"
+    },
+  "original_author": {
     "name": "Kesomannen",
     "email": "",
     "url": "https://kesomannen.com"
   },
   "type": "library"
-}
+}`

@@ -18,6 +18,10 @@ MonoBehaviour:
   _pipelineType: 0
   _dllsToCopy:
   - key: 
+    sourceName: Discord.Sdk.dll
+    outputPath: 
+    exclude: 0
+  - key: 
     sourceName: Facepunch.Steamworks.Win64.dll
     outputPath: 
     exclude: 0
@@ -63,6 +67,10 @@ MonoBehaviour:
     exclude: 0
   - key: 
     sourceName: ../Plugins/x86_64/AudioIn.dll
+    outputPath: 
+    exclude: 0
+  - key: 
+    sourceName: ../Plugins/x86_64/discord_partner_sdk.dll
     outputPath: 
     exclude: 0
   - key: 
