@@ -83,7 +83,7 @@ You will need to install three packages in sequence here:
 
 ### Installing this Game Wrapper
 
-The same steps as previously, just with `https://github.com/Kesomannen/unity-repo-project-patcher.git`
+The same steps as previously, just with `https://github.com/therealkoba/unity-repo-project-patcher.git`
 
 ### Installing the BepInEx Wrapper
 
